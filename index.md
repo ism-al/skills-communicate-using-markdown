@@ -11,3 +11,7 @@ Just added two headers, a header 1 and a header 4. Then added a line in normal t
 ```powershell
 Get-Acl -Path c:\windows
 ```
+
+- [x] Task 1 Version Control
+- [ ] Task 2 Cloud CLI setup
+- [ ] Task 3 Infrastructure as Code
